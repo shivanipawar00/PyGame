@@ -1,2 +1,2 @@
-# VJTinder
-Tinder for VJTI students
+#PyGame
+PyGame games
