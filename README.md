@@ -1,2 +1,1 @@
-#PyGame
-PyGame games
+A simple game using Pygame
